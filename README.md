@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">## Skills<br><br>- Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Redux, Material-UI, Tailwind<br>- Backend: Node.js, Express.js, RESTful APIs, GraphQL<br>- Database: MongoDB, Mongoose, Firebase, Postgre<br>- Tools & Platforms: Git, Docker, Kubernetes, Postman, Jenkins, Netlify, AWS, Azure, Vercel<br>- Others: Agile/Scrum, CI/CD, Webpack, Babel</h5>
+<h5 align="left">- I am a passionate Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). With a strong background in web development and a keen eye for design, I create responsive, user-friendly, and dynamic web applications. <br><br>## Skills<br><br>- Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Redux, Material-UI, Tailwind<br>- Backend: Node.js, Express.js, RESTful APIs, GraphQL<br>- Database: MongoDB, Mongoose, Firebase, Postgre<br>- Tools & Platforms: Git, Docker, Kubernetes, Postman, Jenkins, Netlify, AWS, Azure, Vercel<br>- Others: Agile/Scrum, CI/CD, Webpack, Babel</h5>
 
 ###
 
@@ -39,7 +39,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sennco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sennco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -56,9 +55,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sennco/sennco/output/snake.svg" alt="Snake animation" />
 
 ###
